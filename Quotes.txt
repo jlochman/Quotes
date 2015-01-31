@@ -3,7 +3,8 @@
 ===================================================================================
  
 ___***___
-Claiming that mathematical formulas are no more than lines on the paper is the same as claiming that Shakespeare's plays are no more than words.
+Claiming that mathematical formulas are no more than lines on the paper is the
+same as claiming that Shakespeare's plays are no more than words.
 ... Anonymous
 
 ___***___
@@ -15,7 +16,8 @@ Life is complex – it has both real and imaginary parts.
 ===================================================================================
 
 ___***___
-If you wish to make an apple pie from scratch, you must first invent the universe.
+If you wish to make an apple pie from scratch, you must first invent the
+universe.
 ... Carl Sagan
 
 ___***___
@@ -39,11 +41,13 @@ The only source of knowledge is experience.
 ... Albert Einstein
 
 ___***___
-We cannot solve our problems with the same thinking we used when we created them.
+We cannot solve our problems with the same thinking we used when we created
+them.
 ... Albert Einstein
 
 ___***___
-Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+Only two things are infinite, the universe and human stupidity, and I'm not sure
+about the former.
 ... Albert Einstein
 
 ___***___
@@ -55,7 +59,8 @@ The only reason for time is so that everything doesn't happen at once.
 ... Albert Einstein
 
 ___***___
-Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.
+Any man who reads too much and uses his own brain too little falls into lazy
+habits of thinking.
 ... Albert Einstein
 
 ___***___
@@ -83,7 +88,8 @@ No problem can be solved from the same level of consciousness that created it.
 ... Albert Einstein
 
 ___***___
-No amount of experimentation can ever prove me right; a single experiment can prove me wrong.
+No amount of experimentation can ever prove me right; a single experiment can
+prove me wrong.
 ... Albert Einstein
 
 ___***___
@@ -103,7 +109,8 @@ Never lose a holy curiosity.
 ... Albert Einstein
 
 ___***___
-Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.
+Most of the fundamental ideas of science are essentially simple, and may, as a
+rule, be expressed in a language comprehensible to everyone.
 ... Albert Einstein
 
 ___***___
@@ -119,7 +126,8 @@ God does not play dice.
 ===================================================================================
 
 ___***___
-Archimedes will be remembered when Aeschylus is forgotten, because languages die and mathematical ideas do not.
+Archimedes will be remembered when Aeschylus is forgotten, because languages die
+and mathematical ideas do not.
 ... G. H. Hardy
 
 ===================================================================================
@@ -127,7 +135,8 @@ Archimedes will be remembered when Aeschylus is forgotten, because languages die
 ===================================================================================
 
 ___***___
-It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.
+It doesn't matter how beautiful your theory is, it doesn't matter how smart you
+are. If it doesn't agree with experiment, it's wrong.
 ... Richard P. Feynman
 
 ___***___
@@ -135,14 +144,17 @@ I think I can safely say that nobody understands quantum mechanics.
 ... Richard P. Feynman
 
 ___***___
-I think nature's imagination Is so much greater than man's, she's never going to let us relax.
+I think nature's imagination Is so much greater than man's, she's never going to
+let us relax.
 ... Richard P. Feynman
 
 ___***___
-I can live with doubt and uncertainty and not knowing. I think it's much more interesting to live not knowing than to have answers that might be wrong.
+I can live with doubt and uncertainty and not knowing. I think it's much more
+interesting to live not knowing than to have answers that might be wrong.
 ... Richard P. Feynman
 
-Physics is like sex. Sure it may have some practical results, but that's not why we do it.
+Physics is like sex. Sure it may have some practical results, but that's not why
+we do it.
 ... Richard P. Feynman
 
 ===================================================================================
@@ -150,11 +162,15 @@ Physics is like sex. Sure it may have some practical results, but that's not why
 ===================================================================================
 
 ___***___
-It is important that students bring a certain ragamuffin, barefoot irreverence to their studies; they are not here to worship what is known, but to question it.
+It is important that students bring a certain ragamuffin, barefoot irreverence
+to their studies; they are not here to worship what is known, but to question
+it.
 ... Jacob Bronowksi
 
 ___***___
-Man masters nature not by force but by understanding. This is why science has succeeded where magic failed: because it has looked for no spell to cast over nature.
+Man masters nature not by force but by understanding. This is why science has
+succeeded where magic failed: because it has looked for no spell to cast over
+nature.
 ... Jacob Bronowksi
 
 
@@ -163,7 +179,8 @@ Man masters nature not by force but by understanding. This is why science has su
 ===================================================================================
 
 ___***___
-Not only is the Universe stranger than we think, it is stranger than we can think.
+Not only is the Universe stranger than we think, it is stranger than we can
+think.
 ... Werner Heisenberg
 
 ___***___
@@ -171,23 +188,31 @@ The reality we can put into words is never reality itself.
 ... Werner Heisenberg
 
 ___***___
-What we observe is not nature itself, but nature exposed to our method of questioning.
+What we observe is not nature itself, but nature exposed to our method of
+questioning.
 ... Werner Heisenberg
 
 ___***___
-The problems of language here are really serious. We wish to speak in some way about the structure of the atoms. But we cannot speak about atoms in ordinary language.
+The problems of language here are really serious. We wish to speak in some way
+about the structure of the atoms. But we cannot speak about atoms in ordinary
+language.
 ... Werner Heisenberg
 
 ___***___
-I think that modern physics has definitely decided in favor of Plato. In fact the smallest units of matter are not physical objects in the ordinary sense; they are forms, ideas which can be expressed unambiguously only in mathematical language.
+I think that modern physics has definitely decided in favor of Plato. In fact
+the smallest units of matter are not physical objects in the ordinary sense;
+they are forms, ideas which can be expressed unambiguously only in mathematical
+language.
 ... Werner Heisenberg
 
 ___***___
-Whether we like it or not, modern ways are going to alter and in part destroy traditional customs and values.
+Whether we like it or not, modern ways are going to alter and in part destroy
+traditional customs and values.
 ... Werner Heisenberg
 
 ___***___
-The atoms or elementary particles themselves are not real; they form a world of potentialities or possibilities rather than one of things or facts.
+The atoms or elementary particles themselves are not real; they form a world of
+potentialities or possibilities rather than one of things or facts.
 ... Werner Heisenberg
 
 
@@ -196,7 +221,10 @@ The atoms or elementary particles themselves are not real; they form a world of 
 ===================================================================================
 
 ___***___
-The known is finite, the unknown infinite; intellectually we stand on an islet in the midst of an illimitable ocean of inexplicability. Our business in every generation is to reclaim a little more land, to add something to the extent and the solidity of our possessions.
+The known is finite, the unknown infinite; intellectually we stand on an islet
+in the midst of an illimitable ocean of inexplicability. Our business in every
+generation is to reclaim a little more land, to add something to the extent and
+the solidity of our possessions.
 ... Thomas Huxley
 
 
@@ -205,7 +233,8 @@ The known is finite, the unknown infinite; intellectually we stand on an islet i
 ===================================================================================
 
 ___***___
-There is no certainty in sciences where one of the mathematical sciences cannot be applied, or which are not in relation with these mathematics.
+There is no certainty in sciences where one of the mathematical sciences cannot
+be applied, or which are not in relation with these mathematics.
 ... Leonardo da Vinci
 
 
@@ -214,7 +243,8 @@ There is no certainty in sciences where one of the mathematical sciences cannot 
 ===================================================================================
 
 ___***___
-What we observe as material bodies and forces are nothing but shapes and variations in the structure of space.
+What we observe as material bodies and forces are nothing but shapes and
+variations in the structure of space.
 ... Erwin Schrodinger
 
 
@@ -223,7 +253,8 @@ What we observe as material bodies and forces are nothing but shapes and variati
 ===================================================================================
 
 ___***___
-Every wave, regardless of how high and forceful it crests, must eventually collapse within itself.
+Every wave, regardless of how high and forceful it crests, must eventually
+collapse within itself.
 ... Stefan Zweig
 
 
@@ -232,22 +263,31 @@ Every wave, regardless of how high and forceful it crests, must eventually colla
 ===================================================================================
 
 ___***___
-If we look at the way the universe behaves, quantum mechanics gives us fundamental, unavoidable indeterminacy, so that alternative histories of the universe can be assigned probability.
+If we look at the way the universe behaves, quantum mechanics gives us
+fundamental, unavoidable indeterminacy, so that alternative histories of the
+universe can be assigned probability.
 ... Murray Gell-Mann
 
 ___***___
-If someone says that he can think or talk about quantum physics without becoming dizzy, that shows only that he has not understood anything whatever about it.
+If someone says that he can think or talk about quantum physics without becoming
+dizzy, that shows only that he has not understood anything whatever about it.
 ... Murray Gell-Mann
 
 ___***___
-Sometimes the probabilities are very close to certainties, but they're never really certainties.
+Sometimes the probabilities are very close to certainties, but they're never
+really certainties.
 ... Murray Gell-Mann
 
 ___***___
-What is especially striking and remarkable is that in fundamental physics a beautiful or elegant theory is more likely to be right than a theory that is inelegant.
+What is especially striking and remarkable is that in fundamental physics a
+beautiful or elegant theory is more likely to be right than a theory that is
+inelegant.
 ... Murray Gell-Mann
 
-While many questions about quantum mechanics are still not fully resolved, there is no point in introducing needless mystification where in fact no problem exists. Yet a great deal of recent writing about quantum mechanics has done just that.
+While many questions about quantum mechanics are still not fully resolved, there
+is no point in introducing needless mystification where in fact no problem
+exists. Yet a great deal of recent writing about quantum mechanics has done just
+that.
 ... Murray Gell-Mann
 
 
@@ -256,7 +296,8 @@ While many questions about quantum mechanics are still not fully resolved, there
 ===================================================================================
 
 ___***___
-What I thought was unreal, now for me seems in some ways to be more real than what I think to be real which seems now more to be unreal.
+What I thought was unreal, now for me seems in some ways to be more real than
+what I think to be real which seems now more to be unreal.
 ... Fred Alan Wolf
 
 ===================================================================================
@@ -264,7 +305,11 @@ What I thought was unreal, now for me seems in some ways to be more real than wh
 ===================================================================================
 
 ___***___
-Is the purpose of theoretical physics to be no more than a cataloging of all the things that can happen when particles interact with each other and separate? Or is it to be an understanding at a deeper level in which there are things that are not directly observable (as the underlying quantized fields are) but in terms of which we shall have a more fundamental understanding?
+Is the purpose of theoretical physics to be no more than a cataloging of all the
+things that can happen when particles interact with each other and separate? Or
+is it to be an understanding at a deeper level in which there are things that
+are not directly observable (as the underlying quantized fields are) but in
+terms of which we shall have a more fundamental understanding?
 ... Julian Schwinger
 
 
@@ -282,7 +327,9 @@ All science is either physics or stamp collecting.
 ===================================================================================
 
 ___***___
-In science one tries to tell people, in such a way as to be understood by everyone, something that no one ever knew before. But in poetry, it's the exact opposite.
+In science one tries to tell people, in such a way as to be understood by
+everyone, something that no one ever knew before. But in poetry, it's the exact
+opposite.
 ... Paul A. M. Dirac
 
 God used beautiful mathematics in creating the world.
@@ -294,7 +341,8 @@ God used beautiful mathematics in creating the world.
 ===================================================================================
 
 ___***___
-Physics is really nothing more than a search for ultimate simplicity, but so far all we have is a kind of elegant messiness.
+Physics is really nothing more than a search for ultimate simplicity, but so far
+all we have is a kind of elegant messiness.
 ... Bill Bryson
 
 
@@ -303,15 +351,19 @@ Physics is really nothing more than a search for ultimate simplicity, but so far
 ===================================================================================
 
 ___***___
-How wonderful that we have met with a paradox. Now we have some hope of making progress.
+How wonderful that we have met with a paradox. Now we have some hope of making
+progress.
 ... Niels Bohr
 
 ___***___
-An expert is a person who has made all the mistakes that can be made in a very narrow field.
+An expert is a person who has made all the mistakes that can be made in a very
+narrow field.
 ... Niels Bohr
 
 ___***___
-We must be clear that when it comes to atoms, language can be used only as in poetry. The poet, too, is not nearly so concerned with describing facts as with creating images and establishing mental connections.
+We must be clear that when it comes to atoms, language can be used only as in
+poetry. The poet, too, is not nearly so concerned with describing facts as with
+creating images and establishing mental connections.
 ... Niels Bohr
 
 
@@ -320,7 +372,10 @@ We must be clear that when it comes to atoms, language can be used only as in po
 ===================================================================================
 
 ___***___
-And a new philosophy emerged called quantum physics, which suggest that the individual’s function is to inform and be informed. You really exist only when you’re in a field sharing and exchanging information. You create the realities you inhabit.
+And a new philosophy emerged called quantum physics, which suggest that the
+individual’s function is to inform and be informed. You really exist only when
+you’re in a field sharing and exchanging information. You create the realities
+you inhabit.
 ... Timothy Leary
 
 
@@ -338,7 +393,8 @@ Define the word exist, and you'll know whether God exists.
 ===================================================================================
 
 ___***___
-It is curious that the human mind could blindly accept an infinite speed but had reservations to accept a finite one, simply because it was too large!
+It is curious that the human mind could blindly accept an infinite speed but had
+reservations to accept a finite one, simply because it was too large!
 ... Felix Alba-Juez
 
 
@@ -346,7 +402,8 @@ It is curious that the human mind could blindly accept an infinite speed but had
 == Frank Wilczek
 ===================================================================================
 
-In physics, you don't have to go around making trouble for yourself - nature does it for you.
+In physics, you don't have to go around making trouble for yourself - nature
+does it for you.
 ... Frank Wilczek
 
 
@@ -355,7 +412,9 @@ In physics, you don't have to go around making trouble for yourself - nature doe
 ===================================================================================
 
 ___***___
-I think computer viruses should count as life. I think it says something about human nature that the only form of life we have crated so far is purely destructive. We've created life in our own image.
+I think computer viruses should count as life. I think it says something about
+human nature that the only form of life we have crated so far is purely
+destructive. We've created life in our own image.
 ... Stephen Hawking
 
 ___***___
@@ -363,15 +422,18 @@ Quiet people have the loudest minds.
 ... Stephen Hawking
 
 ___***___
-Not only does God play dice but... he sometimes throws them where they cannot be seen.
+Not only does God play dice but... he sometimes throws them where they cannot be
+seen.
 ... Stephen Hawking
 
 ___***___
-To confine our attention to terrestrial matters would be to limit the human spirit.
+To confine our attention to terrestrial matters would be to limit the human
+spirit.
 ... Stephen Hawking
 
 ___***___
-You cannot understand the glories of the universe without believing there is some Supreme Power behind it.
+You cannot understand the glories of the universe without believing there is
+some Supreme Power behind it.
 ... Stephen Hawking
 
 ___***___
@@ -383,7 +445,8 @@ Work gives you meaning and purpose and life is empty without it.
 ... Stephen Hawking
 
 ___***___
-We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.
+We are just an advanced breed of monkeys on a minor planet of a very average
+star. But we can understand the Universe. That makes us something very special.
 ... Stephen Hawking
 
 
@@ -392,7 +455,8 @@ We are just an advanced breed of monkeys on a minor planet of a very average sta
 ===================================================================================
 
 ___***___
-Gravity explains the motions of the planets, but it cannot explain who sets the planets in motion.
+Gravity explains the motions of the planets, but it cannot explain who sets the
+planets in motion.
 ... Isaac Newton
 
 
@@ -401,11 +465,13 @@ Gravity explains the motions of the planets, but it cannot explain who sets the 
 ===================================================================================
 
 ___***___
-If you wish to understand the Universe, think of energy, frequency and vibration.
+If you wish to understand the Universe, think of energy, frequency and
+vibration.
 ... Nikola Tesla
 
 ___***___
-The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+The day science begins to study non-physical phenomena, it will make more
+progress in one decade than in all the previous centuries of its existence.
 ... Nikola Tesla
 
 
@@ -413,7 +479,9 @@ The day science begins to study non-physical phenomena, it will make more progre
 == Leonhard Euler
 ===================================================================================
 
-Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.
+Mathematicians have tried in vain to this day to discover some order in the
+sequence of prime numbers, and we have reason to believe that it is a mystery
+into which the human mind will never penetrate.
 ... Leonhard Euler
 
 
@@ -421,7 +489,8 @@ Mathematicians have tried in vain to this day to discover some order in the sequ
 == Gottfried Leibniz
 ===================================================================================
 
-Music is the pleasure the human mind experiences from counting without being aware that it is counting.
+Music is the pleasure the human mind experiences from counting without being
+aware that it is counting.
 ... Gottfried Leibniz
 
 
@@ -429,7 +498,8 @@ Music is the pleasure the human mind experiences from counting without being awa
 == John F. Kennedy
 ===================================================================================
 
-Our progress as a nation can be no swifter than our progress in education. The human mind is our fundamental resource.
+Our progress as a nation can be no swifter than our progress in education. The
+human mind is our fundamental resource.
 ... John F. Kennedy
 
 
@@ -437,22 +507,31 @@ Our progress as a nation can be no swifter than our progress in education. The h
 == Neil deGrasse Tyson
 ===================================================================================
 
-Science is an enterprise that should be cherished as an activity of the free human mind. Because it transforms who we are, how we live, and it gives us an understanding of our place in the universe.
+Science is an enterprise that should be cherished as an activity of the free
+human mind. Because it transforms who we are, how we live, and it gives us an
+understanding of our place in the universe.
 ... Neil deGrasse Tyson
 
-The very nature of science is discoveries, and the best of those discoveries are the ones you don't expect.
+The very nature of science is discoveries, and the best of those discoveries are
+the ones you don't expect.
 ... Neil deGrasse Tyson
 
-Somehow it's O.K. for people to chuckle about not being good at math. Yet if I said, 'I never learned to read,' they'd say I was an illiterate dolt.
+Somehow it's O.K. for people to chuckle about not being good at math. Yet if I
+said, 'I never learned to read,' they'd say I was an illiterate dolt.
 ... Neil deGrasse Tyson
 
-Physics is the only profession in which prophecy is not only accurate but routine.
+Physics is the only profession in which prophecy is not only accurate but
+routine.
 ... Neil deGrasse Tyson
 
-If God is the mystery of the universe, these mysteries, we're tackling these mysteries one by one. If you're going to stay religious at the end of the conversation, God has to mean more to you than just where science has yet to tread.
+If God is the mystery of the universe, these mysteries, we're tackling these
+mysteries one by one. If you're going to stay religious at the end of the
+conversation, God has to mean more to you than just where science has yet to
+tread.
 ... Neil deGrasse Tyson
 
-We define ourselves as intelligent. That's odd, because we're doing the definition - We're creating our own definition and saying, 'We are intelligent!'
+We define ourselves as intelligent. That's odd, because we're doing the
+definition - We're creating our own definition and saying, 'We are intelligent!'
 ... Neil deGrasse Tyson
 
 
@@ -460,10 +539,13 @@ We define ourselves as intelligent. That's odd, because we're doing the definiti
 == Michio Kaku
 ===================================================================================
 
-Humans are natural-born scientists. When we're born, we want to know why the stars shine. We want to know why the sun rises.
+Humans are natural-born scientists. When we're born, we want to know why the
+stars shine. We want to know why the sun rises.
 ... Michio Kaku
 
-Futurism today is led by science-fiction writers, by sociologists, by historians. Now, I have nothing against them. I'm sure they do great work. But they're not scientists. They're clueless.
+Futurism today is led by science-fiction writers, by sociologists, by
+historians. Now, I have nothing against them. I'm sure they do great work. But
+they're not scientists. They're clueless.
 ... Michio Kaku
 
 ===================================================================================
@@ -473,5 +555,6 @@ Futurism today is led by science-fiction writers, by sociologists, by historians
 Something unknown is doing we don't know what.
 ... Arthur Eddington
 
-If your theory is found to be against the second law of theromodynamics, I give you no hope; there is nothing for it but to collapse in deepest humiliation.
+If your theory is found to be against the second law of theromodynamics, I give
+you no hope; there is nothing for it but to collapse in deepest humiliation.
 ... Arthur Eddington
