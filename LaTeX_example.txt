@@ -1,0 +1,25 @@
+\color[rgb]{0.500000,0.500000,0.500000}
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters}
+\usepackage{graphicx}
+\usepackage[paperheight=2in,paperwidth=5in,left=5mm,right=5mm,top=5mm,bottom=5mm]{geometry}
+\usepackage{wrapfig}
+
+\begin{document}
+
+\pagecolor{black}
+
+\begin{wrapfigure}{r}{1.5in}
+ \includegraphics[width=1.4in]{/Users/jlochman/Desktop/Quotes/Faces/Bronowski.jpg}
+\end{wrapfigure}
+
+\noindent \textcolor{white}{''Man masters nature not by force but by understanding. This is why science has succeeded where magic failed: because it has looked for no spell to cast over nature.''}
+\vfill
+\begin{flushright}
+ \textcolor{white}{Jacob Bronowksi}
+\end{flushright}
+
+\end{document}
